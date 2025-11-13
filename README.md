@@ -70,10 +70,13 @@ By applying Excel’s analytical and visualization capabilities, I learned to de
 ---
 
 ## 🔗 Report Links
-- [AtliQ Customer Performance Report](#)  
-- [Market Performance vs. Sales Targets Report](#)  
-- [Profit and Loss (P&L) by Fiscal Year](#)  
-- [Profit and Loss (P&L) by Month](#)
+- [Customer Performance Report](https://github.com/aarthi-dataanalyst/Excel_Reports_AtliQ/blob/main/AtliQ%20Customer%20Performance%20Report.pdf
+)  
+- [Market Performance vs. Sales Targets Report](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20Market%20Performance%20Report.pdf
+)  
+- [Profit and Loss (P&L) by Fiscal Year](https://github.com/pradeep-the-analyst/excel-AtliQ-Reports/blob/main/AtliQ%20P%26L%20Statement%20by%20Markets.pdf
+)  
+- [Profit and Loss (P&L) by Month](https://github.com/aarthi-dataanalyst/Excel_Reports_AtliQ/blob/main/AtliQ%20P%26L%20Statement%20by%20fiscal%20year.pdf)
 
 ---
 
@@ -92,4 +95,5 @@ By applying Excel’s analytical and visualization capabilities, I learned to de
 🧑‍💻 **Author:** Aarthi  
 
 ---
+
 
